@@ -1,1 +1,18 @@
-[{"title":"phones","body":"list of famous smartphones"}]
+[
+    {
+        "title": "phones",
+        "body": "list of famous smartphones"
+    },
+    {
+        "title": "New note",
+        "body": "new body"
+    },
+    {
+        "title": "New note2",
+        "body": "new body"
+    },
+    {
+        "title": "New note3",
+        "body": "new body"
+    }
+]
